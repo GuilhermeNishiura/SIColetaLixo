@@ -1,5 +1,4 @@
-O ciclo de vida espiral é o mais adequado, pois existe uma necessidade constante de alterações no projeto, por conta do proprietário da
-empresa ainda não estar completamente decidido se precisará da implementação de recursos extras não mencionados anteriormente. 
+O ciclo de vida espiral é o mais adequado, pois existe uma necessidade constante de alterações no projeto, por conta do proprietário da empresa ainda não estar completamente decidido se precisará da implementação de recursos extras não mencionados anteriormente. 
 
 O cliclo espiral tem como característica ser aberto a constantes mudanças no projeto, sendo que nele:
 - se inicia com o planejamento onde se definem tarefas e prazos;
@@ -7,8 +6,11 @@ O cliclo espiral tem como característica ser aberto a constantes mudanças no p
 - então se realizam as tarefas definidas;
 - e por último se verifica se tudo está nos conformes.
 
-Caso haja a necessidade de alterações e seja preciso adicionar algo no projeto, o ciclo se reinicia, sendo o ideal para o trabalho em 
-questão.
+Caso haja a necessidade de alterações e seja preciso adicionar algo no projeto, o ciclo se reinicia, sendo o ideal para o trabalho em questão.
 
-O SCRUM seria uma ótima escolha para esse projeto, pois o método SCRUM trabalha com o feedback constante do cliente, o que é um ponto
-crítico no projeto.
+O SCRUM seria uma ótima escolha para esse projeto, pois o método SCRUM trabalha com o feedback constante do cliente, o que é um ponto crítico no projeto.
+
+Para a realização do projeto, o ideal seria que a equipe fosse organizada da seguinte forma:
+- o proprietário da empresa seria o PO(Product Owner), dando constante feedback sobre as necessidades da empresa que o software deve resolver
+- eu tomaria o cargo deSM(ScrumMaster), por ser o fullstack da empresa e ter sido escolhido para planejar e vistoriar o projeto de antemão pelo meu superior(dono da empresa)
+- o resto da equipe deveria trabalhar como o time previsto pelo método SCRUM, tendo uma certa liberdade e maior responsabilidade, mas sempre respondendo ao SrumMaster e ao Product Owner.
