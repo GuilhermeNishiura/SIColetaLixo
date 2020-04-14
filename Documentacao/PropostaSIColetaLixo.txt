@@ -1,0 +1,10 @@
+O ciclo de vida espiral é o mais adequado, pois existe uma necessidade constante de alterações no projeto, por conta do proprietário da empresa ainda não estar completamente decidido se precisará da implementação de recursos extras não
+ mencionados anteriormente. 
+
+O cliclo espiral tem como característica ser aberto a constantes mudanças no projeto, sendo que nele:
+- se inicia com o planejamento onde se definem tarefas e prazos;
+- seguido da avaliação de riscos para prever possíveis problemas;
+- então se realizam as tarefas definidas;
+- e por último se verifica se tudo está nos conformes.
+
+Caso haja a necessidade de alterações e seja preciso adicionar algo no projeto, o ciclo se reinicia, sendo o ideal para o trabalho em questão.
